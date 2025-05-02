@@ -75,7 +75,7 @@ h1, h2, h3 {
   transform: scale(1.04);
 }
 .blessing {
-  font-size: 5em;
+  font-size: 4.5em;
   color: #ff7e5f;
   margin-top: 30px;
   animation: popIn 1s cubic-bezier(.68,-0.55,.27,1.55);
